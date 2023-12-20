@@ -1,7 +1,11 @@
 # login items:
 
+# choose your multiplexer - 
 # launch tmux only when first launching terminal
 # if [ "$TMUX" = "" ]; then tmux; fi
+# launch zellij only when first launching teminal
+# if [ "$ZELLIJ" = "" ]; then zellij; fi
+
 
 # misc aliases
 alias python="python3"
